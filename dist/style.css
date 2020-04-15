@@ -1,0 +1,227 @@
+.picture {
+  background-image: url("http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 900px;
+  height: 500px;
+  margin: auto;
+  margin-top: -26px ;
+  }
+.hi {
+  font-size: 30px;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  margin-top: -335px;
+  margin-left: 460px;
+}
+.hi2 {
+  font-size: 60px;
+font-family: 'Abril Fatface', cursive;
+  color: #222;
+  margin-top: -20px;
+}
+.list {
+  list-style: square;
+}
+main {
+  margin-left: 380px;
+  margin-right: 380px;
+  margin-top: 70px;
+  font-family: 'Abril Fatface', cursive;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  line-height: 1.5;
+    }
+p {
+  font-family: 'Abril Fatface', cursive;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  line-height: 1.5; 
+}
+.together  {
+  font-family: 'Abril Fatface', cursive;
+  background: #222;
+  color: white;
+  font-size: 40px;
+  padding: 40px;
+  width: 600px;
+  height: 70px;
+  position:relative;
+  margin-left: -50px;
+}
+blockquote::before {
+  content: '”';
+  content: open-quote;
+  position:absolute;
+  top:-40px;
+  left: 0px;
+  font-size: 120px;  
+}
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #;
+  font-size: 24px;
+  margin-right: 160px;
+}
+p2, p3, p4 {
+  font-size: 22px; 
+  margin-right:0px;
+}
+section {
+  font-size: 12px;
+  margin-right: 0px;
+   line-height: normal;
+}
+section2 {
+  font-size: 12px;
+  margin-right: 160px;
+   line-height: normal;
+}
+.find {
+  font-family: 'Abril Fatface', cursive;
+  background: #222;
+  color: white;
+  font-size: 40px;
+  padding: 40px;
+  width: 600px;
+  height: 70px;
+  position:relative;
+  margin-left: 330px;
+  }
+
+blockquote2::before {
+  content: open-quote;
+  position:absolute;
+  top:-30px;
+  left: 5px;
+  font-size: 120px;  
+}
+h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #;
+  font-size: 24px;
+  margin-right: 380px;
+  margin-left: 376px
+}
+p4 {
+  margin-right: 380px;
+  margin-left: 376px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: ;
+}
+section3 {
+  margin-right: 380px;
+  margin-left: 376px;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+.list2 {
+  list-style: square;
+  margin-right: 380px;
+  margin-left: 376px;
+   font-size: 12px;
+  margin-right: 380px;
+   line-height: normal;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  font-size: 14px;
+}
+p5 {
+    margin-right: 200px;
+  margin-left: 376px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 22px;
+}
+section4 {
+    margin-right: 380px;
+  margin-left: 376px;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+.list3 {
+  list-style: square;
+  margin-right: 380px;
+  margin-left: 376px;
+   font-size: 12px;
+  margin-right: 380px;
+   line-height: normal;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  font-size: 14px;
+}
+.when {
+  font-family: 'Abril Fatface', cursive;
+  background: #222;
+  color: white;
+  font-size: 40px;
+  display: flex;
+  algin-items: center;
+  padding: auto;
+  width: auto;
+  height: auto;
+  position:relative;
+  margin-left: 330px;
+  margin-top:auto;
+  margin-right: 250px;
+  padding: 50px;
+}
+blockquote3::before {
+  content: '”';
+  content: open-quote;
+  position:absolute;
+  top:-20px;
+  left: 5px;
+  font-size: 120px;  
+}
+h4 {
+   font-family: 'Josefin Sans', sans-serif;
+  color: #;
+  font-size: 24px;
+  margin-right: 380px;
+  margin-left: 376px
+}
+p6, p7, p8 {
+   margin-right: 320px;
+  margin-left: 376px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 22px;
+}
+section5, section6, section7 {
+  margin-right: 380px;
+  margin-left: 376px;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+.list4, .list5, .list6 {
+  list-style: square;
+  margin-right: 380px;
+  margin-left: 376px;
+  font-size: 12px;
+  margin-right: 380px;
+  line-height: normal;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  font-size: 14px;
+}
+footer {
+  margin-left: 350px;
+  font-size: 50px;
+  margin-top: -30px;
+}
+h5 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #;
+  font-size: 24px;
+  margin-left: 22px;
+}
+.list7 {
+  list-style: square;
+  margin-right: 0px;
+  margin-left: 27px;
+  font-size: 12px;
+  margin-right: 380px;
+  line-height: normal;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  font-size: 14px;
+}
